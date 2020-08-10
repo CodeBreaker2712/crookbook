@@ -1,7 +1,15 @@
 import React from 'react'
+import Container from 'react-bootstrap/Container'
+import Button  from 'react-bootstrap/Button'
+import { Link } from 'react-router-dom'
 
 export const Name = () => (
     <React.Fragment>
-        <h1>Name</h1>
+        <Container>
+            <form>
+                Name: <input type="text" /><br />
+                <Button variant="danger"><Link to="/game">Enter</Link></Button>
+            </form>
+        </Container>
     </React.Fragment>
 )
