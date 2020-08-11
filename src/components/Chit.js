@@ -30,7 +30,7 @@ export const Chit = () => (
             <Row>
             <Card>
                     <Card.Body>
-                        <Card.Title>Name: Jetha </Card.Title>
+                        <Card.Title>Name: 3 </Card.Title>
                         <Card.Text>Role:</Card.Text>
                     </Card.Body>
                     <Card.Footer>
@@ -39,7 +39,7 @@ export const Chit = () => (
                 </Card>
                 <Card>
                     <Card.Body>
-                        <Card.Title>Name: Babita </Card.Title>
+                        <Card.Title>Name: 4 </Card.Title>
                         <Card.Text>Role:</Card.Text>
                     </Card.Body>
                     <Card.Footer>
@@ -50,7 +50,7 @@ export const Chit = () => (
             <Row>
             <Card>
                     <Card.Body>
-                        <Card.Title>Name: Jetha </Card.Title>
+                        <Card.Title>Name: 5 </Card.Title>
                         <Card.Text>Role:</Card.Text>
                     </Card.Body>
                     <Card.Footer>
@@ -59,7 +59,7 @@ export const Chit = () => (
                 </Card>
                 <Card>
                     <Card.Body>
-                        <Card.Title>Name: Babita </Card.Title>
+                        <Card.Title>Name: 6 </Card.Title>
                         <Card.Text>Role:</Card.Text>
                     </Card.Body>
                     <Card.Footer>
