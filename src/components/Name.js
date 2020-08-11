@@ -7,7 +7,7 @@ export const Name = () => (
     <React.Fragment>
         <Container>
             <form>
-                Name: <input type="text" /><br />
+                Name: <input type="text" required /><br />
                 <Button variant="danger"><Link to="/game">Enter</Link></Button>
             </form>
         </Container>
